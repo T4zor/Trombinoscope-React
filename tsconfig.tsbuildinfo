@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/adminview.tsx","./src/components/modal.tsx","./src/components/publicview.tsx","./src/db/indexeddb.ts"],"version":"5.9.3"}
